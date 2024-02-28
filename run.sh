@@ -1,0 +1,1 @@
+docker build -t eighteight/swoole48-php74:1.0 .
